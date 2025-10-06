@@ -31,3 +31,9 @@ F:\azure\MyAzureApp\obj\Debug\net8.0\refint\MyAzureApp.dll
 F:\azure\MyAzureApp\obj\Debug\net8.0\MyAzureApp.pdb
 F:\azure\MyAzureApp\obj\Debug\net8.0\MyAzureApp.genruntimeconfig.cache
 F:\azure\MyAzureApp\obj\Debug\net8.0\ref\MyAzureApp.dll
+F:\azure\MyAzureApp\bin\Debug\net8.0\publish\web.config
+F:\azure\MyAzureApp\bin\Debug\net8.0\publish\appsettings.Development.json
+F:\azure\MyAzureApp\bin\Debug\net8.0\publish\appsettings.json
+F:\azure\MyAzureApp\bin\Debug\net8.0\publish\MyAzureApp.deps.json
+F:\azure\MyAzureApp\bin\Debug\net8.0\publish\MyAzureApp.runtimeconfig.json
+F:\azure\MyAzureApp\obj\Debug\net8.0\MyAzureApp.sourcelink.json
