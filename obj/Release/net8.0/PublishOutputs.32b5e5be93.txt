@@ -1,0 +1,12 @@
+F:\azure\MyAzureApp\publish\MyAzureApp.exe
+F:\azure\MyAzureApp\publish\appsettings.Development.json
+F:\azure\MyAzureApp\publish\appsettings.json
+F:\azure\MyAzureApp\publish\MyAzureApp.dll
+F:\azure\MyAzureApp\publish\MyAzureApp.deps.json
+F:\azure\MyAzureApp\publish\MyAzureApp.runtimeconfig.json
+F:\azure\MyAzureApp\publish\MyAzureApp.pdb
+F:\azure\MyAzureApp\publish\Microsoft.AspNetCore.OpenApi.dll
+F:\azure\MyAzureApp\publish\Microsoft.OpenApi.dll
+F:\azure\MyAzureApp\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\azure\MyAzureApp\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\azure\MyAzureApp\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

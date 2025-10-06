@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yXwqFYFdWPrjs8WnO0nXqFExtMs3nvv28g7DtegRw6I=",
+  "Source": "MyAzureApp",
+  "BasePath": "_content/MyAzureApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
